@@ -4,8 +4,8 @@ import "./index.css";
 //import { App } from "./current/App";
 import reportWebVitals from "./reportWebVitals";
 
-import { App } from "./01-useStateTraining/App";
-
+//import { App } from "./01-useStateTraining/App";
+import { App } from "./02-useReducer/App";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
