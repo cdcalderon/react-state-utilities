@@ -7,7 +7,10 @@ import reportWebVitals from "./reportWebVitals";
 //import { App } from "./01-useStateTraining/App";
 //import { App } from "./02-useReducer/App";
 //import { App } from "./03-useContext/App";
-import { App } from "./04-useEffect/App";
+// import { App } from "./04-useEffect/App";
+//import { App } from "./05-encapsulate-state/App";
+//import { App } from "./06-useNetwork/App";
+import { App } from "./07-useStorage/App";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
